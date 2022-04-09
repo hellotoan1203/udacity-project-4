@@ -1,0 +1,9 @@
+setx POSTGRES_USERNAME postgres
+setx POSTGRES_PASSWORD postgres
+setx POSTGRES_HOST database-1.cbuyouztzdqq.us-east-1.rds.amazonaws.com
+setx POSTGRES_DB postgres
+setx AWS_BUCKET udacity-project-4-923095746266
+setx AWS_REGION us-east-1
+setx AWS_PROFILE default
+setx JWT_SECRET test
+setx URL http://localhost:8100
